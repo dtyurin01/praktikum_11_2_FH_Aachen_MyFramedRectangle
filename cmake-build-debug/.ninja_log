@@ -1,0 +1,10 @@
+# ninja log v5
+93	1513	7254683949440277	CMakeFiles/praktikum_11_2_FH_Aachen_MyFramedRectangle.dir/MyRectangle.cpp.obj	90a22a6b72b4fb96
+32	1534	7254683949455360	CMakeFiles/praktikum_11_2_FH_Aachen_MyFramedRectangle.dir/MyFramedRectangle.cpp.obj	96d2217dcb699dc1
+75	1551	7254683949520544	CMakeFiles/praktikum_11_2_FH_Aachen_MyFramedRectangle.dir/MyCanvas.cpp.obj	1c2d5b9a7765d794
+16	1597	7254683949936820	CMakeFiles/praktikum_11_2_FH_Aachen_MyFramedRectangle.dir/test_operator_MyRectangle.cpp.obj	cb7b64b1d8072825
+46	1659	7254683950923026	CMakeFiles/praktikum_11_2_FH_Aachen_MyFramedRectangle.dir/test_MyRectangle.cpp.obj	cca5a09a77c5c151
+1	1948	7254683953854457	CMakeFiles/praktikum_11_2_FH_Aachen_MyFramedRectangle.dir/main.cpp.obj	9cdaf310b0d3a111
+1518	2357	7254683957928130	CMakeFiles/praktikum_11_2_FH_Aachen_MyFramedRectangle.dir/test_MyFramedRectangle.cpp.obj	9f9e33166e55f075
+1535	2513	7254683959518008	CMakeFiles/praktikum_11_2_FH_Aachen_MyFramedRectangle.dir/test_MyCanvas.cpp.obj	c6e40426a3dc7914
+2514	3192	7254683966236204	praktikum_11_2_FH_Aachen_MyFramedRectangle.exe	e13fecc2495e20e9

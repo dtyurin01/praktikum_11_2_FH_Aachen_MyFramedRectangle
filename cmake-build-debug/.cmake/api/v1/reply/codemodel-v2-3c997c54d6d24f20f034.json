@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "praktikum_11_2_FH_Aachen_MyFramedRectangle",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "praktikum_11_2_FH_Aachen_MyFramedRectangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-praktikum_11_2_FH_Aachen_MyFramedRectangle-Debug-e5634178afe7660b9ac8.json",
+					"name" : "praktikum_11_2_FH_Aachen_MyFramedRectangle",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dtyur/CLionProjects/praktikum_11_2_FH_Aachen_MyFramedRectangle/cmake-build-debug",
+		"source" : "C:/Users/dtyur/CLionProjects/praktikum_11_2_FH_Aachen_MyFramedRectangle"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

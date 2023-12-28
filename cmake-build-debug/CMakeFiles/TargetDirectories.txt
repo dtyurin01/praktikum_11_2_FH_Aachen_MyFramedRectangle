@@ -1,0 +1,3 @@
+C:/Users/dtyur/CLionProjects/praktikum_11_2_FH_Aachen_MyFramedRectangle/cmake-build-debug/CMakeFiles/praktikum_11_2_FH_Aachen_MyFramedRectangle.dir
+C:/Users/dtyur/CLionProjects/praktikum_11_2_FH_Aachen_MyFramedRectangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dtyur/CLionProjects/praktikum_11_2_FH_Aachen_MyFramedRectangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
